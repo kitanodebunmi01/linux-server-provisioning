@@ -19,7 +19,8 @@ Build a dynamic landing page, and deploy on an AWS EC2 instance.
 ## Public IP
 http://54.247.254.41/
 
-!(Screenshot 2025-06-09 at 3.57.37 PM.png)
+![Webpage Screenshot](linux-server-provisioning/webpage.png)
+
 
 
 ## Author
