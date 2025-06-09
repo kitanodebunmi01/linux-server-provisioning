@@ -19,8 +19,9 @@ Build a dynamic landing page, and deploy on an AWS EC2 instance.
 ## Public IP
 http://54.247.254.41/
 
+!https://github.com/kitanodebunmi01/linux-server-provisioning/edit/main/README.md#:~:text=06%2D09%20at-,3.57.37,-PM.png
 
 
 
 ## Author
-Ogooluwakitan Odebunmi – Lead Cloud Engineer
+Ogooluwakitan Odebunmi –Lead Cloud Engineer
